@@ -22,9 +22,11 @@
 
 - При нажатии на `Смотреть все` происходит переход на страницу `Кейсы` https://ads.vk.ru/cases
 - Каждые 7 секунд происходит переключение между сдайдами карусели
-- | Слайд 1                        | Слайд 2                        | Слайд 3                        |
-        |--------------------------------|--------------------------------|--------------------------------|
-  | ![Слайд 1](src/carousel_1.png) | ![Слайд 2](src/carousel_2.png) | ![Слайд 3](src/carousel_3.png) |
+
+| Слайд 1                        | Слайд 2                        | Слайд 3                        |
+|--------------------------------|--------------------------------|--------------------------------|
+| ![Слайд 1](src/carousel_1.png) | ![Слайд 2](src/carousel_2.png) | ![Слайд 3](src/carousel_3.png) |
+
 - При нажатии на `Зарегистрироваться` происходит переход на страницу
   регистрации [VK ID](https://id.vk.ru/auth?app_id=8064163&response_type=silent_token&v=1.61.1&redirect_uri=https%3A%2F%2Fads.vk.ru%2Fapi%2Fcallbacks%2Fvkconnect-complete&uuid=6WtUCgREf1QS5bq3BXYk1&redirect_state=%257B%2522redirect_url%2522%253A%2522https%253A%252F%252Fads.vk.ru%252Fhq%253Fref%253Dmain_landing%2522%257D)
 - При нажатии на `Получить бонус` происходит переход на страницу https://ads.vk.ru/promo/firstbonus
@@ -51,7 +53,7 @@
 
 - На странице расположен подзаголовок `Используйте подходящие вам форматы` и переключатель с двумя режимами:
 - | Для сайтов                   | Для прилодений              |
-      |------------------------------|-----------------------------|
+        |------------------------------|-----------------------------|
   | ![Слайд 1](src/for-site.png) | ![Слайд 2](src/for-app.png) |
 - При нажатии на `Перейти в кабинет` происходит переход на страницу
   регистрации [VK ID](https://id.vk.ru/auth?app_id=8064163&response_type=silent_token&v=1.61.1&redirect_uri=https%3A%2F%2Fads.vk.ru%2Fapi%2Fcallbacks%2Fvkconnect-complete&uuid=6WtUCgREf1QS5bq3BXYk1&redirect_state=%257B%2522redirect_url%2522%253A%2522https%253A%252F%252Fads.vk.ru%252Fhq%253Fref%253Dmain_landing%2522%257D)
